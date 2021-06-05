@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/circle.cpp
+circle.h
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/circle.h
+
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/circle.h
+shape.h
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/shape.h
+cmath
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/cmath
+
+/home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/src/lab4/shape.h
+utility
+-
+

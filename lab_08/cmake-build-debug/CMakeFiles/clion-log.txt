@@ -1,0 +1,27 @@
+/snap/clion/151/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow
+Binary tree path: /home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/cmake-build-debug
+-- Could NOT find GTest (missing: GTEST_LIBRARY GTEST_INCLUDE_DIR GTEST_MAIN_LIBRARY) 
+Nie znaleziono GTesta, bedzie proba pobrania go wg kodu od p. Dimy:
+git found: /usr/bin/git
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/cmake-build-debug/googletest-download
+[ 11%] Performing update step for 'googletest'
+[ 22%] No patch step for 'googletest'
+[ 33%] No configure step for 'googletest'
+[ 44%] No build step for 'googletest'
+[ 55%] No install step for 'googletest'
+[ 66%] No test step for 'googletest'
+[ 77%] Completed 'googletest'
+[100%] Built target googletest
+Kod od p. Dimy wykonano
+-- Performing Test flag_supported
+-- Performing Test flag_supported - Success
+-- Performing Test flag_supported
+-- Performing Test flag_supported - Success
+-- Performing Test flag_supported
+-- Performing Test flag_supported - Success
+Binary saved to: /home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/cmake-build-debug/src/lab4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kamil/CLionProjects/PP2/lab_08/zaj4ShapeDrawing_dlaStudentow/cmake-build-debug
