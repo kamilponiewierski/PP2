@@ -1,0 +1,2 @@
+<#initializer#>
+#include "Object.h"
