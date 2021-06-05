@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/lab_09.dir/main.cpp.o CMakeFiles/lab_09.dir/Logger.cpp.o CMakeFiles/lab_09.dir/FileLogger.cpp.o CMakeFiles/lab_09.dir/ConsoleLogger.cpp.o CMakeFiles/lab_09.dir/DatabaseLogger.cpp.o -o lab_09  -lsqlite3 

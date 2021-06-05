@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic  -g  CMakeFiles/lab.dir/main.cpp.o CMakeFiles/lab.dir/matrix.cc.o CMakeFiles/lab.dir/matrixTests.cc.o -o ../../bin/lab  ../../lib/libUtils.a ../../lib/libgtestd.a -lpthread -lpthread 

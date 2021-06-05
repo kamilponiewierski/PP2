@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic  -g  CMakeFiles/lab.dir/fraction.cpp.o CMakeFiles/lab.dir/fractionTests.cpp.o CMakeFiles/lab.dir/main.cpp.o CMakeFiles/lab.dir/vector.cpp.o CMakeFiles/lab.dir/vectorTests.cpp.o -o ../../bin/lab  ../../lib/libUtils.a ../../lib/libgtestd.a -lpthread -lpthread 

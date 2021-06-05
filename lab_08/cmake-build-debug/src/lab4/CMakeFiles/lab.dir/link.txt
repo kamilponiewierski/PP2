@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -pedantic  -g  CMakeFiles/lab.dir/ShapesTests.cpp.o CMakeFiles/lab.dir/circle.cpp.o CMakeFiles/lab.dir/main.cpp.o CMakeFiles/lab.dir/rectangle.cpp.o CMakeFiles/lab.dir/shapecomposite.cpp.o -o ../../bin/lab  ../../lib/libUtils.a ../../lib/libgtestd.a -lpthread -lpthread 
