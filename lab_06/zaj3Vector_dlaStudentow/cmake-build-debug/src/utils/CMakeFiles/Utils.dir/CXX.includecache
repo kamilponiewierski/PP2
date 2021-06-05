@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/argumentParsing.cpp
+iostream
+-
+iomanip
+-
+cstring
+-
+argumentParsing.h
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/argumentParsing.h
+programmerDetails.h
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.h
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/argumentParsing.h
+programmerDetails.h
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.h
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/memoryManagement.cpp
+memoryManagement.h
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/memoryManagement.h
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/memoryManagement.h
+cstdlib
+-
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.cpp
+string
+-
+programmerDetails.h
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.h
+
+/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.h
+

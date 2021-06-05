@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/include -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/lab3",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest  -Wall -Wextra -pedantic  -g  -o CMakeFiles/lab.dir/fraction.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/fraction.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/fraction.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/lab3",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest  -Wall -Wextra -pedantic  -g  -o CMakeFiles/lab.dir/fractionTests.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/fractionTests.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/fractionTests.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/lab3",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest  -Wall -Wextra -pedantic  -g  -o CMakeFiles/lab.dir/main.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/main.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/main.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/lab3",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest  -Wall -Wextra -pedantic  -g  -o CMakeFiles/lab.dir/vector.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/vector.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/vector.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/lab3",
+  "command": "/usr/bin/c++  -I/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest/include -isystem /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/googletest-src/googletest  -Wall -Wextra -pedantic  -g  -o CMakeFiles/lab.dir/vectorTests.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/vectorTests.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/lab3/vectorTests.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic  -g  -o CMakeFiles/Utils.dir/argumentParsing.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/argumentParsing.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/argumentParsing.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic  -g  -o CMakeFiles/Utils.dir/memoryManagement.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/memoryManagement.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/memoryManagement.cpp"
+},
+{
+  "directory": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/cmake-build-debug/src/utils",
+  "command": "/usr/bin/c++    -Wall -Wextra -pedantic  -g  -o CMakeFiles/Utils.dir/programmerDetails.cpp.o -c /home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.cpp",
+  "file": "/home/kamil/CLionProjects/PP2/lab_06/zaj3Vector_dlaStudentow/src/utils/programmerDetails.cpp"
+}
+]
