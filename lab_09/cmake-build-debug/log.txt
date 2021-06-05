@@ -1,0 +1,80 @@
+asdf06-05-2021 21:51:17: asdf
+06-05-2021 21:51:18: asdf
+06-05-2021 21:51:19: asdf
+06-05-2021 21:51:20: asdf
+06-05-2021 21:51:21: asdf
+06-05-2021 21:51:22: asdf
+06-05-2021 21:51:23: asdf
+06-05-2021 21:51:24: asdf
+06-05-2021 21:51:25: asdf
+06-05-2021 21:51:26: asdf
+06-05-2021 21:52:34: File logger says Hi!
+06-05-2021 21:52:35: File logger says Hi!
+06-05-2021 21:52:36: File logger says Hi!
+06-05-2021 21:52:37: File logger says Hi!
+06-05-2021 21:52:38: File logger says Hi!
+06-05-2021 21:52:39: File logger says Hi!
+06-05-2021 21:52:40: File logger says Hi!
+06-05-2021 21:52:41: File logger says Hi!
+06-05-2021 21:52:42: File logger says Hi!
+06-05-2021 21:52:43: File logger says Hi!
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)0
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)1
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)2
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)3
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)4
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)5
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)6
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)7
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)8
+07-05-2021 21:23:06: 07-05-2021 21:23:06Logger test (FileLogger)9
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)0
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)1
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)2
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)3
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)4
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)5
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)6
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)7
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)8
+07-05-2021 21:23:16: 07-05-2021 21:23:16 Logger test (FileLogger)9
+07-05-2021 21:23:31: Logger test (FileLogger)0
+07-05-2021 21:23:31: Logger test (FileLogger)1
+07-05-2021 21:23:31: Logger test (FileLogger)2
+07-05-2021 21:23:31: Logger test (FileLogger)3
+07-05-2021 21:23:31: Logger test (FileLogger)4
+07-05-2021 21:23:31: Logger test (FileLogger)5
+07-05-2021 21:23:31: Logger test (FileLogger)6
+07-05-2021 21:23:31: Logger test (FileLogger)7
+07-05-2021 21:23:31: Logger test (FileLogger)8
+07-05-2021 21:23:31: Logger test (FileLogger)9
+07-05-2021 21:26:01: Logger test (FileLogger) 0
+07-05-2021 21:26:01: Logger test (FileLogger) 1
+07-05-2021 21:26:01: Logger test (FileLogger) 2
+07-05-2021 21:26:01: Logger test (FileLogger) 3
+07-05-2021 21:26:01: Logger test (FileLogger) 4
+07-05-2021 21:26:01: Logger test (FileLogger) 5
+07-05-2021 21:26:01: Logger test (FileLogger) 6
+07-05-2021 21:26:01: Logger test (FileLogger) 7
+07-05-2021 21:26:01: Logger test (FileLogger) 8
+07-05-2021 21:26:01: Logger test (FileLogger) 9
+07-05-2021 21:26:49: Logger test (FileLogger) 0
+07-05-2021 21:26:49: Logger test (FileLogger) 1
+07-05-2021 21:26:49: Logger test (FileLogger) 2
+07-05-2021 21:26:49: Logger test (FileLogger) 3
+07-05-2021 21:26:49: Logger test (FileLogger) 4
+07-05-2021 21:26:49: Logger test (FileLogger) 5
+07-05-2021 21:26:49: Logger test (FileLogger) 6
+07-05-2021 21:26:49: Logger test (FileLogger) 7
+07-05-2021 21:26:49: Logger test (FileLogger) 8
+07-05-2021 21:26:49: Logger test (FileLogger) 9
+11-05-2021 13:11:45: Logger test (FileLogger) 0
+11-05-2021 13:11:45: Logger test (FileLogger) 1
+11-05-2021 13:11:45: Logger test (FileLogger) 2
+11-05-2021 13:11:45: Logger test (FileLogger) 3
+11-05-2021 13:11:45: Logger test (FileLogger) 4
+11-05-2021 13:11:45: Logger test (FileLogger) 5
+11-05-2021 13:11:45: Logger test (FileLogger) 6
+11-05-2021 13:11:45: Logger test (FileLogger) 7
+11-05-2021 13:11:45: Logger test (FileLogger) 8
+11-05-2021 13:11:45: Logger test (FileLogger) 9
